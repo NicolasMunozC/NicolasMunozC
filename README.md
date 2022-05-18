@@ -1,6 +1,6 @@
 <h1> Hello I'm Nicolás Muñoz 🥷🏼 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-- 🔭 I’m currently unemployed, freelancing as WordPress Web Developer.
+- 🔭 I’m currently unemployed, freelancing as WordPress/WooCommerce/Shopify Web Developer.
 - 👨🏽‍💻 I'm a civil industrial engineer, and I'm working to be a Front-End Developer.
 - 📲 I’m currently learning Swift. I want to build iOS Apps.
 
@@ -38,7 +38,6 @@
   <img src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
 </p>
 
-
 <h4>Others</h4>
   
 <p>
@@ -47,8 +46,6 @@
   <img src ='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'>
   <img src ='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'>
 </p>
-
-
 
 <h2>Lets connect!</h2>
 
