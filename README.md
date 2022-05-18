@@ -1,13 +1,13 @@
 <h1> Hello I'm Nicolás Muñoz 🥷🏼 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-- 🔭 I’m currently unemployed, freelancing as Wordpress Web Developer.
-- 👨🏽‍💻 I'm civil industrial engineer, and I'm working to be a Front-End Developer.
-- 📲 I’m currently learning Swift, I want to build iOS Apps.
+- 🔭 I’m currently unemployed, freelancing as WordPress Web Developer.
+- 👨🏽‍💻 I'm a civil industrial engineer, and I'm working to be a Front-End Developer.
+- 📲 I’m currently learning Swift. I want to build iOS Apps.
 
 <h2> About me</h2>
 
-- 👨‍👩‍👦 I have a beautifull family.
-- 🎮 I play videogames sometimes.
+- 👨‍👩‍👦 I have a beautiful family.
+- 🎮 I play video games sometimes.
 - 📍 I'm living in Santiago, Chile. (For the moment 👀)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
