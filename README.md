@@ -12,18 +12,49 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
+<h4>Languages</h4>
+  
 <p>
+  <img src ='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
+  <img src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+  <img src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+  <img src ='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+  <img src ='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white'>
+</p>
 
-  <img width ='32px' src ='https://user-images.githubusercontent.com/84532538/169121504-2517af39-36ce-4751-970f-a1a749de068c.png'>
-  <img width ='32px' src ='https://user-images.githubusercontent.com/84532538/169121367-5e671de2-fc5f-4b36-8217-773fc52b52b7.png'>
-  <img width ='32px' src ='https://user-images.githubusercontent.com/84532538/169119651-705958a6-db08-4569-b4c0-2c91b6861461.png'>
-  <img width ='32px' src ='https://user-images.githubusercontent.com/84532538/169119665-d95ea243-54bd-45a1-9d88-ee6128be9452.png'>
-  <img width ='32px' src ='https://user-images.githubusercontent.com/84532538/169122469-53a609b6-7c4d-4047-9a7f-477570060dbe.png'>
-  <img width ='32px' src ='https://user-images.githubusercontent.com/84532538/169122456-04b9bb3a-7ec7-4691-86d9-24d97791236b.png'>
+<h4>Frameworks</h4>
+  
+<p>
+  <img src ='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
+  <img src ='https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white'>
+  <img src ='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'>
+  <img src ='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+  <img src ='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
+</p>
+
+<h4>Database</h4>
+
+<p>
+  <img src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
+</p>
+
+
+<h4>Others</h4>
+  
+<p>
+  <img src ='https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white'>
+  <img src ='https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white'>
+  <img src ='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'>
+  <img src ='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'>
 </p>
 
 
 
-<h2>Lets connect! <p>WORKING ON IT... </p></h2>
+<h2>Lets connect!</h2>
+
+<p>
+<a href='https://www.linkedin.com/in/nicolasmunozcaceres/'><img src ='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+<a href='https://nicolasmunozc.github.io/'><img src ='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'></a>
+</p>
 
 
