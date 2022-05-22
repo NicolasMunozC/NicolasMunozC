@@ -12,12 +12,6 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<h4>Learning now</h4>
-<p>
-  <img src ='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
-  <img src ='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white'>
-</p>
-
 <h4>Languages</h4>
   
 <p>
@@ -51,6 +45,13 @@
   <img src ='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'>
   <img src ='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'>
 </p>
+
+<h2> Learning now </h2>
+<p>
+  <img src ='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
+  <img src ='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white'>
+</p>
+
 
 <h2>Lets connect!</h2>
 
