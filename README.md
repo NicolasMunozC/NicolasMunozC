@@ -1,4 +1,4 @@
-<h1> Hello I'm Nicolás Muñoz 🥷🏼 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello I'm Nicolás Muñoz 🥷🏼 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"> </h1>
 
 - 🔭 I’m currently unemployed, freelancing as WordPress/WooCommerce/Shopify Web Developer.
 - 👨🏽‍💻 I'm a civil industrial engineer, and I'm working to be a Front-End Developer.
@@ -10,7 +10,7 @@
 - 🎮 I play video games sometimes.
 - 📍 I'm living in Santiago, Chile. (For the moment 👀)
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2>
 
 <h4>Languages</h4>
   
