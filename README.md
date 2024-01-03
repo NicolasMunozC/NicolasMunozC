@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🔭 Actualmente siendo freelance como web developer. Busco trabajo estable :) <br>👨🏽‍💻 Ingeniero civil industrial.<br>📲 Me gusta aprender swift pero voy lento.<br>👨‍👩‍👦 Amo a mi hijo y esposa.<br>🎮 Aveces un poco rata, esmeralda en LOL...<br>📍 Vivo en Santiago, Chile, pero no es mi lugar definitivo.
+🔭 Actualmente siendo freelance como web developer. Busco trabajo estable :) <br>👨🏽‍💻 Ingeniero civil industrial.<br>📲 Me gusta aprender swift pero voy lento.<br>🎮 Aveces un poco rata, esmeralda en LOL... xD<br>📍 Vivo en Santiago, Chile, pero no es mi lugar definitivo.
 
 
 ## 🌐 Redes sociales:
